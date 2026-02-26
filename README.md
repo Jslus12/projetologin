@@ -16,10 +16,6 @@ O mesmo realizou o passo-a-passo de configuração do ambiente de desenvolviment
 
 #### ![Imagem tela logar](<img.png>)
 
-#### 📁 Acesso ao projeto
-Você pode acessar minha página clicando [aqui](file:///C:/Users/Jo%C3%A3o/Documents/facul%202026/github.clone/projetologin/index.html)**
-
-
 ### Andamento do projeto
 ![Logo github](https://img.shields.io/badge/github-repo-blue?logo=github)
 ![Projeto em andamento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
@@ -28,3 +24,4 @@ Você pode acessar minha página clicando [aqui](file:///C:/Users/Jo%C3%A3o/Docu
 ### Autor
 
 [João Lucas Delbianco](https://github.com/Jslus12)
+[LinkeDin] (https://www.linkedin.com/in/jo%C3%A3o-d-ba44923b0/)
