@@ -8,12 +8,6 @@
 - `Inclui`: Espaço e-mail, Espaço Senha, Login, FAQ
 - `Recursos Utilizados`: Bootstrap5, Html, Css, Git Codes
 
-# 📁 Acesso ao projeto
-**Indique como é possível baixar ou acessar o código fonte do projeto, seja projeto inicial ou final**
-# 🛠️ Abrir e rodar o projeto
-**Apresente as instruções necessárias para abrir e executar o projeto**
-
-
 #### Descrição
 
 Projeto aula programação Front-End, na Unicesumar, campus Londrina.
@@ -21,8 +15,9 @@ O professor [Leonardo Rocha](https://github.com/leonardossrocha) introduziu os c
 O mesmo realizou o passo-a-passo de configuração do ambiente de desenvolvimento. 
 
 #### ![Imagem tela logar](<img.png>)
-# 📁 Acesso ao projeto
-**Você pode acessar minha página clicando [aqui](file:///C:/Users/Jo%C3%A3o/Documents/facul%202026/github.clone/projetologin/index.html)**
+
+#### 📁 Acesso ao projeto
+Você pode acessar minha página clicando [aqui](file:///C:/Users/Jo%C3%A3o/Documents/facul%202026/github.clone/projetologin/index.html)**
 
 
 ### Andamento do projeto
