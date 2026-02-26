@@ -42,13 +42,13 @@
   <body class="text-center">
     <main class="form-signin">
       <form>
-        <img
+        <!-- <img
           class="mb-4"
           src="../assets/brand/bootstrap-logo.svg"
           alt=""
           width="72"
           height="57"
-        />
+        /> linha salva para imagem depois -->
         <h1 class="h3 mb-3 fw-normal">Por favor faça login</h1>
 
         <div class="form-floating">
@@ -75,10 +75,25 @@
             <input type="checkbox" value="remember-me" /> Lembre-se de mim
           </label>
         </div>
+        <!-- botão para entrar na tela de login -->
         <button class="w-100 btn btn-lg btn-primary" type="submit">
           logar
         </button>
         <p class="mt-5 mb-3 text-muted">&copy; 2025-2027</p>
+        <div class="faq-bubble" onclick="toggleFAQ()">💬</div>
+
+<div class="faq-box" id="faqBox">
+  <p><strong>FAQ</strong></p>
+  <p>• Como cadastro? → Clique em criar conta</p>
+  <p>• É gratuito? → Sim</p>
+  <p>• Suporte? → Entre em contato</p>
+</div>
+<script>
+function toggleFAQ(){
+  const box = document.getElementById("faqBox");
+  box.style.display = box.style.display === "block" ? "none" : "block";
+}
+</script>
       </form>
     </main>
   </body>

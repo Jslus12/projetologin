@@ -1,5 +1,9 @@
 # Projeto_Faculdade 
 
+#### Título
+<h1 align="center"> Projeto Git</h1>
+
+
 #### Descrição
 
 Projeto aula programação Front-End, na Unicesumar, campus Londrina.
@@ -12,6 +16,9 @@ O mesmo realizou o passo-a-passo de configuração do ambiente de desenvolviment
 - CSS3
 - Bootstrap
 - Git
+
+### Bages
+![Arquivo em andamento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 ### Autor
 
