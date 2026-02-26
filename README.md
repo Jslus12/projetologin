@@ -17,8 +17,9 @@ O mesmo realizou o passo-a-passo de configuração do ambiente de desenvolviment
 - Bootstrap
 - Git
 
-### Bages
-![Arquivo em andamento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+### Andamento do projeto
+![Projeto em andamento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+(https://img.shields.io/badge/github-repo-blue?logo=github)
 
 ### Autor
 
