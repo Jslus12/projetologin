@@ -3,6 +3,11 @@
 #### Título
 <h1 align="center"> Projeto Git</h1>
 
+# :hammer: Funcionalidades do projeto
+- `Funcionalidade 1`: Desenvolver 
+- `Funcionalidade 2`: descrição da funcionalidade 2
+- `Funcionalidade 2a`: descrição da funcionalidade 2a relacionada à funcionalidade 2
+- `Funcionalidade 3`: descrição da funcionalidade 3
 
 #### Descrição
 
@@ -10,7 +15,7 @@ Projeto aula programação Front-End, na Unicesumar, campus Londrina.
 O professor [Leonardo Rocha](https://github.com/leonardossrocha) introduziu os conceitos de Framework, apresentando o Bootstrap.
 O mesmo realizou o passo-a-passo de configuração do ambiente de desenvolvimento. 
 
-#### (![Imagem tela logar]<img.png>)
+#### ![Imagem tela logar](<img.png>)
 
 
 ### Ferramentas utilizadas
