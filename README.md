@@ -24,4 +24,5 @@ O mesmo realizou o passo-a-passo de configuração do ambiente de desenvolviment
 ### Autor
 
 [João Lucas Delbianco](https://github.com/Jslus12)
-[LinkeDin] (https://www.linkedin.com/in/jo%C3%A3o-d-ba44923b0/)
+
+[LinkeDin](https://www.linkedin.com/in/jo%C3%A3o-d-ba44923b0/)
