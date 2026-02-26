@@ -1,13 +1,13 @@
 # Projeto_Faculdade 
 
-#### Título
+#### 
 <h1 align="center"> Projeto Git</h1>
 
 # :hammer: Objetivos do projeto
-- `Funcionalidade 1`: Desenvolver uma página web que inclua;
-- `Inclui 2`: Espaço e-mail, Espaço Senha, Login, FAQ
-- `Funcionalidade 2a`: descrição da funcionalidade 2a relacionada à funcionalidade 2
-- `Funcionalidade 3`: descrição da funcionalidade 3
+- `Objetivo`: Desenvolver uma página web que inclua;
+- `Inclui`: Espaço e-mail, Espaço Senha, Login, FAQ
+- `Recursos Utilizados`: Bootstrap5, Html, Css, Git Codes
+
 
 #### Descrição
 
